@@ -1,0 +1,2 @@
+postman login --with-api-key {{postman-api-key-here}}
+postman collection run 40575281-935eaa39-6bbc-4894-ad32-757d2662d890 -e 40575281-ab9cd626-c7bf-4e7b-be1e-34ecad14550e
